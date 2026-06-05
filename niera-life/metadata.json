@@ -1,0 +1,6 @@
+{
+  "name": "Niera Life",
+  "description": "Premium full-stack application for NIERA LIFE Pvt.Ltd, featuring interactive Ceylon Spices, modern Fashion resort wear, upcycled Accessories, organic energy Drinks, a direct inquiry portal, an AI Curator bot, and a fully interactive business back-end management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
